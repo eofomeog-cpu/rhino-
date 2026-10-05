@@ -1,0 +1,16 @@
+{
+  "scale": 192.0,
+  "t_mat_in": 0.0625,
+  "kerf_in": 0.0,
+  "fit_in": 0.0,
+  "roof_clear_in": 0.01,
+  "sheet_w_in": 30.0,
+  "sheet_h_in": 20.0,
+  "margin_in": 0.5,
+  "part_gap_in": 0.15,
+  "min_feature_in": 0.055,
+  "min_hole_in": 0.1,
+  "tag_height_in": 0.06,
+  "base_w_in": 16.5,
+  "base_h_in": 13.0
+}
